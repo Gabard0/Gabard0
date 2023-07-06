@@ -17,7 +17,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "email: matheusgabrielgabardo@gmail.com">
+    <a href = "mailto:matheusgabrielgabardo@gmail.com">
       <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">
     </a>
     <a href = "https://www.instagram.com/gabard0_/">
@@ -30,7 +30,7 @@
 
   <br/>
 
-Apaixonado por codar, e tirar fotos 📷
+  <h4 align="center">Programador, designer e amante da fotografia 📷</h4> 
 
 ### Portifólio:
 - [Bechance](https://www.behance.net/Gabardo)<br/>
